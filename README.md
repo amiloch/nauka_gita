@@ -9,3 +9,5 @@ curl 127.0.0.1:5000
 ```
 ### brudnospis
 konfiguracja
+proby opanowania gita, którego podobno KOCHAM
+I CIESZE SIE, ZE UCZE SIE GITA :D
