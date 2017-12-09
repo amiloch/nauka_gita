@@ -2,6 +2,13 @@
 Pierwszy projekt w gita
 ## ulubione komendy
     git status
+    git branch
+    git add
+    git commit
+    git branch
+    git checkout -b
+    checkout
+    
 
 ## robie na szaro
 ```
